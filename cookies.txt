@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+demedcon.sdumc.ac.in	TRUE	/	FALSE	1999999999	PHPSESSID	d6b0a1645f0a47093c845a154c0342e5
+
